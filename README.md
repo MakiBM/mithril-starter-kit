@@ -30,4 +30,4 @@ Start your project:
 Project should be bootstraped. To make sure all is good run your first test from test dir. 
 
 
-Lat but not least. This is just a compilation of existing tools really so big THX goes to all developers and contributors behind them!
+Last but not least. This is just a compilation of existing tools really so big THX goes to all developers and contributors behind them!
