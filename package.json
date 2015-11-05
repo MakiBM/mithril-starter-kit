@@ -1,8 +1,8 @@
 {
   "name": "~",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Mithril Starter Kit",
+  "repository": "https://github.com/MakiBM/mithril-starter-kit.git",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
   },
