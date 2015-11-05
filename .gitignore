@@ -1,0 +1,8 @@
+node_modules
+vendor
+docs
+
+dist/app
+dist/assets
+
+test/suit.js

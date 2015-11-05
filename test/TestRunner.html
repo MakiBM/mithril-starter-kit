@@ -1,0 +1,17 @@
+<div id="mocha"></div>
+
+<link rel="stylesheet" href="../node_modules/mocha/mocha.css">
+<script src="../node_modules/mocha/mocha.js"></script>
+<script src="../node_modules/chai/chai.js"></script>
+
+<script src="../dist/app/vendor.js"></script>
+<script src="../dist/app/source.js"></script>
+
+<script>
+    mocha.ui('bdd');
+    mocha.reporter('html');
+    window.expect = chai.expect;
+</script>
+
+<script src="suit.js"></script>
+<script> mocha.run(); </script>
